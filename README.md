@@ -7,7 +7,7 @@ Web Developer and Designer
 Every human being relies on and is bounded by his knowledge and experience to live. This is what we call “reality”. However, knowledge and experience are ambiguous, thus reality can become illusion. Is it not possible to think that, all human beings are living in their assumptions?
 
 * 🌍  I'm based in South Africa, Johannesburg
-* 🖥️  See my portfolio at [resumen](https://www.clientch.com)
+* 🖥️  See my portfolio at [resumen](https://portfolio-chrisachoo.vercel.app/)
 * ✉️  You can contact me at [mabs.chris@outlook.com](mailto:mabs.chris@outlook.com)
 * 🌱  I’m currently learning everything 🤣
 * 🧠  I'm learning web3
