@@ -1,27 +1,68 @@
-Hi 👋 My name is Chris
-======================
+# 👋 Hey, I’m Chris Mabunda
 
-Web Developer and Designer
---------------------------
+I'm a frontend-leaning developer who loves writing code that looks good *and* feels good to use.
 
-Every human being relies on and is bounded by his knowledge and experience to live. This is what we call “reality”. However, knowledge and experience are ambiguous, thus reality can become illusion. Is it not possible to think that, all human beings are living in their assumptions?
+Most of my time is spent building UIs, exploring frameworks I probably don’t need, and obsessing over clean code.  
+I enjoy the craft — from styling pixels to structuring databases — but frontend will always have my heart.
 
-* 🌍  I'm based in South Africa, Johannesburg
- * 🖥️ See my portfolio at <a href="https://portfolio-chrisachoo.vercel.app/" target="_blank">resumen</a>
-* ✉️  You can contact me at [mabs.chris@outlook.com](mailto:mabs.chris@outlook.com)
-* 🌱  I’m currently learning everything 🤣
-* 🧠  I'm learning web3
-* 🤝  I'm open to collaborating on anything related to code
+---
 
+### ✨ Daily Fuel
 
-<h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://discord.com/users/Chris Mabunda#9911" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mabs_chris_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/chris-mabunda-5811b919b" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/UI_UX_Chris" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+- Building with components, not excuses  
+- Exploring edge-first tools and modern DX  
+- Writing code I won't cringe at (…later)  
+- Making dev tools, side projects, and occasionally, chaos
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://ionicframework.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Ionic_Logo.svg" alt="ionic" width="40" height="40"/> </a> <a href="https://jasmine.github.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<h3 align="left">My GitHub Stats:</h3>
+### 📌 Check My Pinned Repos
 
-<a href="http://www.github.com/chrisachoo"><img src="https://github-readme-stats.vercel.app/api?username=chrisachoo&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Chris's GitHub stats" /></a>
+I let the work speak. Dive into the pinned projects for experiments, ideas, and things I probably overengineered.
 
-<a href="http://www.github.com/chrisachoo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chrisachoo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+---
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrisachoo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisachoo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
+
+### 📫 Find Me Around
+
+<div align="left">
+  <a href="https://www.youtube.com/@gamedsbox" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="youtube logo" />
+  </a>
+  <a href="https://www.twitch.tv/gamedsbox" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="twitch logo" />
+  </a>
+  <a href="https://discordapp.com/users/chrismabunda#9911" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="discord logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/chris-mabunda-5811b919b/" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="linkedin logo" />
+  </a>
+  <a href="#" target="_blank">
+    <img
+      src="https://img.shields.io/static/v1?message=Portfolio&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge"
+      height="35" alt="portfolio badge" />
+  </a>
+</div>
+
+<div align="left">
+  <em>Note: Portfolio lives in my mind (for now) ☕🚀</em>
+</div>
+
+---
+
+*Typing, tinkering, and learning — one commit at a time.*
